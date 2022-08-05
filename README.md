@@ -9,7 +9,7 @@
 - store and persist objects to a file (JSON file)
 
 ```
-File and Difrectories
+File and Directories
 ```
 - models directory will contain all classes used for the entire project. A class, called “model” in a OOP project is the representation of an object/instance.
 - tests directory will contain all unit tests.
@@ -360,5 +360,5 @@ count:
 This is the first group project in Holberton Paris School in the 26 June 2022!!<br>
 If you have a question or a comment, please contact us.<br>
 Lucile DELEFORGE (4316@holbertonschool.com)<br>
-Juliette MESNILE (2550@holbertonschool.com)<br>
+Juliette MESNIL (2550@holbertonschool.com)<br>
 Hiromi VARNIER (4336@holbertonschool.com)<br>
